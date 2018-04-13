@@ -1,0 +1,4 @@
+2018-04-13 10:28:06,733 - root - INFO - ********TEST START********
+2018-04-13 10:28:06,915 - root - INFO - login_PasswordError - Code:100130019 - msg:Account and password does not match
+2018-04-13 10:28:06,917 - root - INFO - *********TEST END*********
+2018-04-13 10:28:20,877 - root - INFO - The test report has send to developer by email.
